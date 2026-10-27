@@ -16,7 +16,7 @@ Amino Acid Sequence
 Translation from a codon character vector
 }
 \examples{
-codonList <- c("GCU","CUU","GCG","GCG",GCU)
+codonList <- c("GCU","CUU","GCG","GCG","GCU")
 AAsequence <- translation(codonList)
 print(AAsequence)
 
