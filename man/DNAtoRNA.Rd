@@ -18,5 +18,5 @@ DNAtoRNA
 changes all the "T" (Thymine) to "U" (Uracil)
 }
 \examples{
-DNAtoRNA(ATCCTAG)
+DNAtoRNA("ATCCTAG")
 }

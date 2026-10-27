@@ -8,7 +8,7 @@
 #' @export
 #'
 #' @examples
-#' DNAtoRNA(ATCCTAG)
+#' DNAtoRNA("ATCCTAG")
 DNAtoRNA <- function(DNA){
   RNA <- gsub("T", "U", DNA)
   return(RNA)
