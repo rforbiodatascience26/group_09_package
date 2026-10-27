@@ -1,0 +1,21 @@
+Package: CentralDog
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Authors@R: c(
+    person(
+      "Jesus", "Garza",
+      email = "jesus@example.com",
+      role = c("aut", "cre")
+    ),
+    person(
+      "Adrian", "Lozano",
+      email = "adrian@example.com",
+      role = c("aut", "cre")
+    )    
+  )
+Description: More about what it does (maybe more than one line).
+    Continuation lines should be indented.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
