@@ -3,5 +3,5 @@
 export(translation)
 export(GetCodons)
 export(DNAtoRNA)
-export(Randomseq)
+export(randomseq)
 export(amino_freq)
