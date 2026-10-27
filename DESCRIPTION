@@ -11,7 +11,7 @@ Authors@R: c(
     person(
       "Adrian", "Lozano",
       email = "adrian@example.com",
-      role = c("aut", "cre")
+      role = c("aut")
     )    
   )
 Description: More about what it does (maybe more than one line).
@@ -22,3 +22,6 @@ LazyData: true
 Depends: 
     R (>= 3.5)
 RoxygenNote: 7.3.2
+Imports: 
+    ggplot2,
+    stringr
